@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -311,15 +311,15 @@
     <comment>Manual</comment>
   </data>
   <data name="AutoIncludeBang" xml:space="preserve">
-    <value>Incluir automaticamente "!"</value>
+    <value>Auto Incluir "!"</value>
     <comment>Manual</comment>
   </data>
   <data name="AutoLogInCurrentAccount" xml:space="preserve">
-    <value>Conta corrente de login automático</value>
+    <value>Login automático da Conta</value>
     <comment>Manual</comment>
   </data>
   <data name="AutomatedSettingsBackupRate" xml:space="preserve">
-    <value>Taxa de backup de configurações automatizadas</value>
+    <value>Período de backup das configurações </value>
     <comment>Manual</comment>
   </data>
   <data name="AutomaticReset" xml:space="preserve">
@@ -370,7 +370,7 @@
     <comment>Manual</comment>
   </data>
   <data name="Bot" xml:space="preserve">
-    <value>Robô</value>
+    <value>Bot</value>
     <comment>Manual</comment>
   </data>
   <data name="BotAccount" xml:space="preserve">
@@ -453,7 +453,7 @@
     <comment>Manual</comment>
   </data>
   <data name="ChatTriggersNoExclamationHintAssist" xml:space="preserve">
-    <value>Gatilho(s) de bate-papo (não é necessário "!", separado por espaço, ponto e vírgula para várias palavras)</value>
+    <value>Gatilho(s) (sem "!", separado por espaço, ponto ou vírgula para várias palavras)</value>
     <comment>Manual</comment>
   </data>
   <data name="ChatWhisperSound" xml:space="preserve">
@@ -736,7 +736,7 @@
     <comment>Manual</comment>
   </data>
   <data name="Discord" xml:space="preserve">
-    <value>Discórdia</value>
+    <value>Discord</value>
     <comment>Manual</comment>
   </data>
   <data name="DoesNotContain" xml:space="preserve">
@@ -1343,15 +1343,15 @@
     <comment>Manual</comment>
   </data>
   <data name="MixItUpCommands" xml:space="preserve">
-    <value>Comandos de mistura</value>
+    <value>Comandos do MixItUp</value>
     <comment>Manual</comment>
   </data>
   <data name="MixItUpDashboard" xml:space="preserve">
-    <value>Misture tudo - Painel</value>
+    <value>MixItUp - Painel</value>
     <comment>Manual</comment>
   </data>
   <data name="MixItUpOverlay" xml:space="preserve">
-    <value>Sobreposição de mistura</value>
+    <value>Sobreposições do MixItUp</value>
     <comment>Manual</comment>
   </data>
   <data name="MixPlay" xml:space="preserve">
@@ -2107,7 +2107,7 @@
     <comment>Manual</comment>
   </data>
   <data name="Streamer" xml:space="preserve">
-    <value>Flâmula</value>
+    <value>Streamer</value>
     <comment>Manual</comment>
   </data>
   <data name="StreamerAccount" xml:space="preserve">
@@ -2305,7 +2305,7 @@
     <comment>Manual</comment>
   </data>
   <data name="TranslationBy" xml:space="preserve">
-    <value>Misture tudo</value>
+    <value>MixItUp</value>
     <comment>Manual</comment>
   </data>
   <data name="TweetImageURL" xml:space="preserve">
@@ -2346,7 +2346,7 @@
     <value>Desbloqueie todos os tipos de comando</value>
   </data>
   <data name="UnlockCommand" xml:space="preserve">
-    <value>Comando de desbloqueio</value>
+    <value>Desbloquear Comando</value>
     <comment>Manual</comment>
   </data>
   <data name="Update" xml:space="preserve">
@@ -2518,7 +2518,7 @@
     <comment>Manual</comment>
   </data>
   <data name="Wait" xml:space="preserve">
-    <value>Espere</value>
+    <value>Aguardar</value>
     <comment>Manual</comment>
   </data>
   <data name="WaitForFinish" xml:space="preserve">
@@ -3372,7 +3372,7 @@ Por exemplo, se esta opção estiver habilitada e o valor estiver definido como 
     <comment>Manual</comment>
   </data>
   <data name="DiscordActionMissingChannel" xml:space="preserve">
-    <value>Ação de discórdia: canal ausente</value>
+    <value>Ação do Discord: canal ausente</value>
     <comment>Manual</comment>
   </data>
   <data name="DiscordActionMissingChatMessage" xml:space="preserve">
@@ -5329,10 +5329,10 @@ habilitado. Você pode pensar nisso como algo semelhante a alternar a opção �
     <value>Enquete</value>
   </data>
   <data name="Raid" xml:space="preserve">
-    <value>Ataque</value>
+    <value>Invadir</value>
   </data>
   <data name="Clip" xml:space="preserve">
-    <value>Grampo</value>
+    <value>Clipe</value>
   </data>
   <data name="SpinWheel" xml:space="preserve">
     <value>Roda giratória</value>
@@ -5362,7 +5362,7 @@ habilitado. Você pode pensar nisso como algo semelhante a alternar a opção �
     <value>Botão direito do mouse para baixo</value>
   </data>
   <data name="RightUp" xml:space="preserve">
-    <value>RightMouseUp</value>
+    <value>Botão direito do mouse para cima</value>
   </data>
   <data name="MiddleDown" xml:space="preserve">
     <value>Meio do mouse para baixo</value>
@@ -5383,11 +5383,11 @@ habilitado. Você pode pensar nisso como algo semelhante a alternar a opção �
     <value>Absoluto</value>
   </data>
   <data name="Twitch" xml:space="preserve">
-    <value>Contração muscular</value>
+    <value>Twitch</value>
     <comment>Manual</comment>
   </data>
   <data name="Premium" xml:space="preserve">
-    <value>Prêmio</value>
+    <value>Premium</value>
   </data>
   <data name="Affiliate" xml:space="preserve">
     <value>Afiliado</value>
@@ -6197,7 +6197,7 @@ habilitado. Você pode pensar nisso como algo semelhante a alternar a opção �
     <value>Algumas das configurações que você alterou exigem uma reinicialização para entrarem em vigor. Gostaria de reiniciar o Mix It Up agora?</value>
   </data>
   <data name="SettingsLoadFailure" xml:space="preserve">
-    <value>Não foi possível carregar um ou mais arquivos de configurações. Por favor, visite a discórdia do Mix It Up para obter assistência sobre este assunto.</value>
+    <value>Não foi possível carregar um ou mais arquivos de configurações. Por favor, visite o Discord do Mix It Up para obter assistência sobre este assunto.</value>
   </data>
   <data name="Shadow" xml:space="preserve">
     <value>Sombra (opcional)</value>
@@ -6588,7 +6588,7 @@ Isso pode ser feito clicando em Criar recompensa de pontos de canal na página P
     <value>Pasta de backups automáticos</value>
   </data>
   <data name="MixItUpInstallFolder" xml:space="preserve">
-    <value>Misture a pasta de instalação</value>
+    <value>Pasta de instalação do MixItUp</value>
   </data>
   <data name="AutomaticBackupFailedToCreate" xml:space="preserve">
     <value>Falha ao criar backup automático. Certifique-se de ter definido o
@@ -7338,7 +7338,7 @@ O não cumprimento de uma das opções a seguir pode afetar a forma como os usu�
     <value>Equipe Twitch</value>
   </data>
   <data name="TwitchTurbo" xml:space="preserve">
-    <value>Contração Turbo</value>
+    <value>Twitch Turbo</value>
   </data>
   <data name="TwitchVIP" xml:space="preserve">
     <value>Twitch VIP</value>
@@ -8591,10 +8591,10 @@ Tentaremos nos reconectar ao serviço quando possível. Se isso continuar, acess
     <value>Os comandos a seguir podem ser criados automaticamente para você começar a usar esse recurso. Deseja que adicionemos automaticamente os seguintes comandos para você?</value>
   </data>
   <data name="MixItUpPopOut" xml:space="preserve">
-    <value>Misture tudo - saia</value>
+    <value>Sair do MixItUp</value>
   </data>
   <data name="MixItUpNewUserWizard" xml:space="preserve">
-    <value>Misture tudo - Assistente de novo usuário</value>
+    <value>MixItUp - Assistente de novo usuário</value>
   </data>
   <data name="UserEditor" xml:space="preserve">
     <value>Editor de usuário</value>
@@ -8648,7 +8648,7 @@ Tentaremos nos reconectar ao serviço quando possível. Se isso continuar, acess
     <value>Próximo &gt;</value>
   </data>
   <data name="MixItUpLogin" xml:space="preserve">
-    <value>Misture tudo - Login</value>
+    <value>MixItUp - Login</value>
   </data>
   <data name="ANewUpdateIsAvailableForMixItUp" xml:space="preserve">
     <value>Uma nova atualização está disponível para Mix It Up!</value>
@@ -8660,7 +8660,7 @@ Tentaremos nos reconectar ao serviço quando possível. Se isso continuar, acess
     <value>Se a atualização não for concluída com êxito e você for solicitado a atualizar novamente, reinicie o computador primeiro e tente novamente.</value>
   </data>
   <data name="MixItUpUpdateAvailable" xml:space="preserve">
-    <value>Misture tudo - atualização disponível</value>
+    <value>MixItUp - Atualização Disponível</value>
   </data>
   <data name="NewVersion" xml:space="preserve">
     <value>Nova versão</value>
@@ -8750,7 +8750,7 @@ via Twitch, é uma situação “sua milhagem pode variar”.</value>
     <value>Arquivos de imagem|*.bmp;*.gif;*.jpg;*.jpeg;*.png;|Todos os arquivos (*.*)|*.*</value>
   </data>
   <data name="MixItUpBackupFileFormatFilter" xml:space="preserve">
-    <value>Misture tudo Backup|*.miubackup|Todos os arquivos (*.*)|*.*</value>
+    <value>Backup MixItUp|*.miubackup|Todos os arquivos (*.*)|*.*</value>
   </data>
   <data name="MixItUpCommandFileFormatFilter" xml:space="preserve">
     <value>Comando Mix It Up|*.miucommand|Todos os arquivos (*.*)|*.*</value>
@@ -9155,61 +9155,61 @@ via Twitch, é uma situação “sua milhagem pode variar”.</value>
     <value>C#</value>
   </data>
   <data name="Python" xml:space="preserve">
-    <value>Pitão</value>
+    <value>Python</value>
   </data>
   <data name="Script" xml:space="preserve">
-    <value>Roteiro</value>
+    <value>Script</value>
   </data>
   <data name="ScriptActionMissingScript" xml:space="preserve">
     <value>Ação do script: script ausente</value>
   </data>
   <data name="VisualBasic" xml:space="preserve">
-    <value>Visual Básico</value>
+    <value>Visual Basic</value>
   </data>
   <data name="ScriptActionFailedCompile" xml:space="preserve">
     <value>Erro de script: {0}</value>
     <comment>{0} is the series of script errors</comment>
   </data>
   <data name="ScriptActionCSharpDefaultScriptTemplate" xml:space="preserve">
-    <value>usando o sistema;
+    <value>using System;
             
 namespace CustomNamespace
 {
-    classe pública CustomClass
+    public class CustomClass
     {
-        objeto público Executar()
+        public object Run()
         {
-            //Seu código vai aqui
-            System.Console.WriteLine("Olá Mundo!");
+            // Seu código vai aqui
+            System.Console.WriteLine("Hello World!");
 
-            // Retorna aqui todos os dados que você gostaria de usar
-            retornar 42;
+            // Retorne qualquer valor que queira usar
+            return 42;
         }
     }
 }</value>
   </data>
   <data name="ScriptActionJavascriptDefaultScriptTemplate" xml:space="preserve">
-    <value>função executar()
+    <value>function run()
 {
-    //Seu código vai aqui
-    var text = 'Olá mundo!';
+    // Your code goes here
+    var text = 'Hello World!';
 
-    // Retorna aqui todos os dados que você gostaria de usar
-    retornar 42;
+    // Return any data here that you'd like to use
+    return 42;
 }
 
-var resultado = correr();
-sendParentMessage({ Tipo: "ScriptComplete", ID: "{ID}", Resultado: resultado });</value>
+var result = run();
+sendParentMessage({ Type: "ScriptComplete", ID: "{ID}", Result: result });</value>
   </data>
   <data name="ScriptActionPythonDefaultScriptTemplate" xml:space="preserve">
-    <value>def execução():
-    # Seu código vai aqui
-    text = "Olá, mundo!"
+    <value>def run():
+    # Your code goes here
+    text = "Hello World!"
 
-    # Retorne aqui todos os dados que você gostaria de usar
-    retornar 42
+    # Return any data here that you'd like to use
+    return 42
 
-imprimir(executar())</value>
+print(run())</value>
   </data>
   <data name="CommunityCommandsScriptActionsNotSupported" xml:space="preserve">
     <value>Comandos contendo ações de script não são suportados para upload no recurso Comandos da comunidade. Devido à complexidade dos scripts e à capacidade deles terem intenções maliciosas para os usuários, não oferecemos suporte ao upload deles por meio de comandos da comunidade para garantir que os usuários estejam protegidos. Opcionalmente, você pode exportar seu comando para um arquivo e compartilhá-lo com os usuários por outros meios.</value>
@@ -9233,7 +9233,7 @@ imprimir(executar())</value>
     <value>Trem de hype do canal Twitch subindo de nível</value>
   </data>
   <data name="AlertTwitchCharityDonation" xml:space="preserve">
-    <value>{0} Doado {1} para a instituição de caridade Twitch</value>
+    <value>{0} Doou {1} para a instituição de caridade Twitch</value>
   </data>
   <data name="TwitchChannelCharityDonation" xml:space="preserve">
     <value>Doação de caridade do canal Twitch</value>
@@ -9248,7 +9248,7 @@ imprimir(executar())</value>
     <value>O valor final deve ser maior que o valor inicial</value>
   </data>
   <data name="TwitchBits" xml:space="preserve">
-    <value>Bits de contração muscular</value>
+    <value>Bits da Twitch</value>
   </data>
   <data name="EndingAmount" xml:space="preserve">
     <value>Valor final</value>
@@ -9564,7 +9564,7 @@ imprimir(executar())</value>
     <value>Lançar item</value>
   </data>
   <data name="TITS" xml:space="preserve">
-    <value>Arremesso Integrado Twitch</value>
+    <value>Twitch Integrated Throwing</value>
   </data>
   <data name="TITSItem" xml:space="preserve">
     <value>Item</value>
@@ -9622,7 +9622,7 @@ imprimir(executar())</value>
     <value>Extensão Twitch</value>
   </data>
   <data name="TwitchPoint" xml:space="preserve">
-    <value>Ponto de contração muscular</value>
+    <value>Ponto do Twitch</value>
   </data>
   <data name="Brightness" xml:space="preserve">
     <value>Brilho</value>
@@ -9700,7 +9700,7 @@ imprimir(executar())</value>
     <value>Contagem de espectadores</value>
   </data>
   <data name="TwitchClip" xml:space="preserve">
-    <value>Clipe de contração muscular</value>
+    <value>Clipe do Twitch</value>
   </data>
   <data name="LatestClip" xml:space="preserve">
     <value>Último clipe</value>
@@ -9742,7 +9742,7 @@ imprimir(executar())</value>
     <value>Mix It Up Online é uma nova versão hospedada na nuvem do Mix It Up atualmente em desenvolvimento. Os usuários do Mix It Up Desktop podem fazer o pré-registro agora para ter a chance de acesso ao teste Alpha clicando no botão Registrar abaixo.</value>
   </data>
   <data name="MixItUpOnline" xml:space="preserve">
-    <value>Misture tudo on-line</value>
+    <value>MixItUp on-line</value>
   </data>
   <data name="UserOnlyChat" xml:space="preserve">
     <value>Bate-papo somente para usuários</value>
@@ -10555,7 +10555,7 @@ imprimir(executar())</value>
     <value>Permitir ajuste durante a pausa</value>
   </data>
   <data name="DiscordReactiveVoice" xml:space="preserve">
-    <value>Voz reativa de discórdia</value>
+    <value>Voz reativa do Discord</value>
   </data>
   <data name="Active" xml:space="preserve">
     <value>Ativo</value>
