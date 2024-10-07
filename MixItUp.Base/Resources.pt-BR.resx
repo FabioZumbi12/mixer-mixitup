@@ -1343,15 +1343,15 @@
     <comment>Manual</comment>
   </data>
   <data name="MixItUpCommands" xml:space="preserve">
-    <value>Comandos do MixItUp</value>
+    <value>Comandos do Mix It Up</value>
     <comment>Manual</comment>
   </data>
   <data name="MixItUpDashboard" xml:space="preserve">
-    <value>MixItUp - Painel</value>
+    <value>Mix It Up - Painel</value>
     <comment>Manual</comment>
   </data>
   <data name="MixItUpOverlay" xml:space="preserve">
-    <value>Sobreposições do MixItUp</value>
+    <value>Sobreposições do Mix It Up</value>
     <comment>Manual</comment>
   </data>
   <data name="MixPlay" xml:space="preserve">
@@ -2305,7 +2305,7 @@
     <comment>Manual</comment>
   </data>
   <data name="TranslationBy" xml:space="preserve">
-    <value>MixItUp</value>
+    <value>Mix It Up</value>
     <comment>Manual</comment>
   </data>
   <data name="TweetImageURL" xml:space="preserve">
@@ -6588,7 +6588,7 @@ Isso pode ser feito clicando em Criar recompensa de pontos de canal na página P
     <value>Pasta de backups automáticos</value>
   </data>
   <data name="MixItUpInstallFolder" xml:space="preserve">
-    <value>Pasta de instalação do MixItUp</value>
+    <value>Pasta de instalação do Mix It Up</value>
   </data>
   <data name="AutomaticBackupFailedToCreate" xml:space="preserve">
     <value>Falha ao criar backup automático. Certifique-se de ter definido o
@@ -8591,10 +8591,10 @@ Tentaremos nos reconectar ao serviço quando possível. Se isso continuar, acess
     <value>Os comandos a seguir podem ser criados automaticamente para você começar a usar esse recurso. Deseja que adicionemos automaticamente os seguintes comandos para você?</value>
   </data>
   <data name="MixItUpPopOut" xml:space="preserve">
-    <value>Sair do MixItUp</value>
+    <value>Sair do Mix It Up</value>
   </data>
   <data name="MixItUpNewUserWizard" xml:space="preserve">
-    <value>MixItUp - Assistente de novo usuário</value>
+    <value>Mix It Up - Assistente de novo usuário</value>
   </data>
   <data name="UserEditor" xml:space="preserve">
     <value>Editor de usuário</value>
@@ -8648,7 +8648,7 @@ Tentaremos nos reconectar ao serviço quando possível. Se isso continuar, acess
     <value>Próximo &gt;</value>
   </data>
   <data name="MixItUpLogin" xml:space="preserve">
-    <value>MixItUp - Login</value>
+    <value>Mix It Up - Login</value>
   </data>
   <data name="ANewUpdateIsAvailableForMixItUp" xml:space="preserve">
     <value>Uma nova atualização está disponível para Mix It Up!</value>
@@ -8660,7 +8660,7 @@ Tentaremos nos reconectar ao serviço quando possível. Se isso continuar, acess
     <value>Se a atualização não for concluída com êxito e você for solicitado a atualizar novamente, reinicie o computador primeiro e tente novamente.</value>
   </data>
   <data name="MixItUpUpdateAvailable" xml:space="preserve">
-    <value>MixItUp - Atualização Disponível</value>
+    <value>Mix It Up - Atualização Disponível</value>
   </data>
   <data name="NewVersion" xml:space="preserve">
     <value>Nova versão</value>
@@ -8750,7 +8750,7 @@ via Twitch, é uma situação “sua milhagem pode variar”.</value>
     <value>Arquivos de imagem|*.bmp;*.gif;*.jpg;*.jpeg;*.png;|Todos os arquivos (*.*)|*.*</value>
   </data>
   <data name="MixItUpBackupFileFormatFilter" xml:space="preserve">
-    <value>Backup MixItUp|*.miubackup|Todos os arquivos (*.*)|*.*</value>
+    <value>Backup Mix It Up|*.miubackup|Todos os arquivos (*.*)|*.*</value>
   </data>
   <data name="MixItUpCommandFileFormatFilter" xml:space="preserve">
     <value>Comando Mix It Up|*.miucommand|Todos os arquivos (*.*)|*.*</value>
@@ -9742,7 +9742,7 @@ print(run())</value>
     <value>Mix It Up Online é uma nova versão hospedada na nuvem do Mix It Up atualmente em desenvolvimento. Os usuários do Mix It Up Desktop podem fazer o pré-registro agora para ter a chance de acesso ao teste Alpha clicando no botão Registrar abaixo.</value>
   </data>
   <data name="MixItUpOnline" xml:space="preserve">
-    <value>MixItUp on-line</value>
+    <value>Mix It Up on-line</value>
   </data>
   <data name="UserOnlyChat" xml:space="preserve">
     <value>Bate-papo somente para usuários</value>
